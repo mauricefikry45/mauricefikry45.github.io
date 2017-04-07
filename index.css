@@ -1,0 +1,155 @@
+#personalblog{
+
+	text-align:center;
+	background-color: #29B6F6;
+	font-family: "Luckiest Guy";
+	font-size: 100px;
+	color: white;
+	padding-top: center;
+}
+#maurice{
+	text-align:center;
+	font-family:"Luckiest Guy";
+	font-size: 30px;
+	color:#29B6F6 ;
+	padding-left:50px;
+
+}
+#hobby{
+	text-align:center;
+	font-family:"Luckiest Guy";
+	font-size: 30px;
+	color:#29B6F6 ;
+	padding-left:90px;
+
+}
+#kampus{
+	text-align:center;
+	font-family:"Luckiest Guy";
+	font-size: 30px;
+	color:#29B6F6 ;
+	padding-left:120px;
+}
+#a{
+	
+	text-align:center;
+	font-family: Righteous;
+	letter-spacing: 1px;
+	font-size: 20px;
+	color:black;
+	line-height: 30px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 7px solid #29B6F6;	
+	border-top: 7px solid #29B6F6;
+	border-left: 7px solid #29B6F6;	
+	border-right: 7px solid #29B6F6;
+
+
+}
+#b{
+	
+	text-align:center;
+	font-family: Righteous;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color:black;
+	line-height: 30px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 7px solid #29B6F6;	
+	border-top: 7px solid #29B6F6;
+	border-left: 7px solid #29B6F6;	
+	border-right: 7px solid #29B6F6;
+}
+#c{
+	
+	text-align:center;
+	font-family: Righteous;
+	font-size: 20px;
+	letter-spacing: 0px;
+	color:black;
+	line-height: 30px;
+	padding-top:10px;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	border-bottom: 7px solid #29B6F6;	
+	border-top: 7px solid #29B6F6;
+	border-left: 7px solid #29B6F6;	
+	border-right: 7px solid #29B6F6;
+}
+body{
+   background-color: #E0F7FA;
+   margin :10px 10px 10px 10px;
+   border-bottom: 7px solid #01579B;	
+   border-top: 7px solid #01579B;
+   border-left: 7px solid #01579B;	
+   border-right: 7px solid #01579B;
+
+}
+#gambar1{
+	display: block;
+	margin : 0 auto;
+	width: 15%;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+    vertical-align: middle;
+}
+#gambar2{
+	display: block;
+	margin : 0 auto;
+	width: 15%;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+    vertical-align: middle;
+}
+#gambar3{
+	display: block;
+	margin : 0 auto;
+	width: 15%;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	overflow: hidden;
+    vertical-align: middle;
+}
+.btn{
+
+	text-align:center;
+	background-color:#E3F2FD;
+	display: block;
+	margin: 0 auto;
+	border-color: black;
+	font-size: 10px;
+	color:blue;
+	margin-top:10px;
+	border-bottom: 3px solid #78909C;	
+	border-top: 3px solid #78909C;
+	border-left: 3px solid #78909C;	
+	border-right: 3px solid #78909C;
+
+}
+nav{
+	font-size: 15px;
+	color:white;
+	margin-left: 50px;
+	margin-right:710px;
+	background-color: #90CAF9;
+}
+#like{
+	
+	display: block;
+	margin : 0 auto;
+}
